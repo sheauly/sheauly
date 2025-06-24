@@ -11,8 +11,8 @@
 - 💬 Ask me about: *React, Firebase Auth, MongoDB, Express, Tailwind*
 ### 📫 How to reach me:
 
+📍 Location: Kishoregonj, Bangladesh
 <div style="text-align: left;">
-  📍 Location: Kishoregonj, Bangladesh
   <a href="mailto:shulybd1245@gmail.com" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; margin: 8px 0;">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="28" />
     <span style="font-weight: bold; font-size: 16px; margin-left: 8px; color: black;">shulybd1245@gmail.com</span>
