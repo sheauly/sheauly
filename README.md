@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Sheauly Akhter Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sheauly Akhter</h1>
 <h3 align="center">🚀 MERN Stack Developer | Lifelong Learner | Passionate Coder from Bangladesh</h3>
-<img src="https://i.ibb.co/Kcwfbnfb/ea4b8edd-2f77-4509-8751-d9ec06a5c735.png"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00bfbf&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+💻;React+Specialist+⚛️;Open+Source+Enthusiast+🌱;Passionate+about+Learning+📚" alt="Typing SVG" />
 </p>
@@ -17,13 +21,25 @@
 
 ---
 
-### 📬 Contact Me
+### 🌐 Connect With Me
 
-📍 **Location:** Kishoreganj, Bangladesh  
-📧 **Email:** [shulybd1245@gmail.com](mailto:shulybd1245@gmail.com)  
-📱 **WhatsApp:** [01757321528](https://wa.me/8801757321528)  
-🌐 **GitHub:** [github.com/sheauly](https://github.com/sheauly)  
-👤 **Facebook:** [Sheauly Akhter](https://www.facebook.com/sheauly.akhter.7)
+<p align="left">
+  <a href="https://wa.me/8801757321528" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+
+  <a href="mailto:shulybd1245@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://discord.com/users/Sheauly#4529" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+  <a href="https://www.facebook.com/sheauly.akhter.7" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
 ---
 
@@ -47,14 +63,12 @@
 
 ---
 
-### 🔥 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sheauly&show_icons=true&theme=tokyonight" width="47%" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sheauly&theme=tokyonight" width="47%" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheauly&layout=compact&theme=tokyonight" width="47%" />
@@ -64,9 +78,9 @@
 
 ### 💡 Projects I'm Proud Of
 
-- 🍽️ [Restaurant Management Website](#)  
-- 📦 [Parcel Delivery Website](#)  
-- 🧑‍🤝‍🧑 [Roommate Finder App](#)  
+- 🍽️ [Restaurant Management Website](#)
+- 📦 [Parcel Delivery Website](#)
+- 🧑‍🤝‍🧑 [Roommate Finder App](#)
 - 💼 [Career Code – Job Portal](#)
 
 ---
