@@ -1,10 +1,9 @@
-
+<h1 align="center">Hi 👋, I'm Sheauly Akhter</h1>
+<h3>🚀 MERN Stack Developer</h3>
 <p align="center">
-  <img src="assets/banner.png" alt="Sheauly Akhter Banner" />
+  <img src="https://i.ibb.co/LXkYzhJ7/742654bc-b81b-44df-8fb3-89538dc8dd54.png" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sheauly Akhter</h1>
-<h3 align="center">🚀 MERN Stack Developer | Lifelong Learner | Passionate Coder from Bangladesh</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00bfbf&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+💻;React+Specialist+⚛️;Open+Source+Enthusiast+🌱;Passionate+about+Learning+📚" alt="Typing SVG" />
@@ -13,6 +12,7 @@
 ---
 
 ### 🧑‍💻 About Me
+<h3 align="center">🚀 MERN Stack Developer | Lifelong Learner | Passionate Coder from Bangladesh</h3>
 
 Hello! I'm **Sheauly Akhter**, a dedicated **MERN Stack Developer** who is passionate about building high-performance and user-friendly web applications. I enjoy working with both frontend and backend technologies to deliver complete full-stack solutions that are clean, scalable, and efficient.
 
