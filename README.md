@@ -54,35 +54,7 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sheauly&theme=tokyonight" width="47%" />
 </p>
-A
-Commits
-High Committer
-116pt
-A
-Repositories
-High Repo Creator
-22pt
-C
-Followers
-First Friend
-1pt
-C
-Experience
-Newbie
-3pt
-?
-Stars
-Unknown
-0pt
-?
-Issues
-Unknown
-0pt
-?
-PullRequest
-Unknown
-0pt
-?
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheauly&layout=compact&theme=tokyonight" width="47%" />
