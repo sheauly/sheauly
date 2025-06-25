@@ -30,6 +30,19 @@ Hello! I'm Sheauly Akhter, a dedicated MERN Stack Developer who is passionate ab
 
 ---
 
+📍 Location: Bangladesh
+📧 Email: shulybd1245@gmail.com
+📞 Phone: 01518471238
+
+
+🚀 What I'm Working On
+- 🔭 Building: Management Resturent
+- ⚒️ Exploring: Next.js
+- 🧪 Learning: Advanced backend security & authentication
+- 🌐 Hosting Projects On: Firebase, Vercel, Netlify
+
+
+
 ### 🌐 Connect With Me
 
 <p align="left">
@@ -87,14 +100,7 @@ Hello! I'm Sheauly Akhter, a dedicated MERN Stack Developer who is passionate ab
 
 ---
 
-### 💡 Projects I'm Proud Of
 
-- 🍽️ [Restaurant Management Website](#)
-- 📦 [Parcel Delivery Website](#)
-- 🧑‍🤝‍🧑 [Roommate Finder App](#)
-- 💼 [Career Code – Job Portal](#)
-
----
 
 ### 🎬 Coding Vibes
 
