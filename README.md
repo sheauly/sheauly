@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheauly Akhter</h1>
-<h3>🚀 MERN Stack Developer</h3>
+<h3 align="center">🚀 MERN Stack Developer</h3>
 <p align="center">
   <img src="https://i.ibb.co/LXkYzhJ7/742654bc-b81b-44df-8fb3-89538dc8dd54.png" />
 </p>
