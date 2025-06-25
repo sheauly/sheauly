@@ -1,99 +1,83 @@
 <h1 align="center">Hi 👋, I'm Sheauly Akhter</h1>
-<h3 align="center">🚀 A passionate MERN Stack Developer from Bangladesh</h3>
+<h3 align="center">🚀 MERN Stack Developer | Lifelong Learner | Passionate Coder from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D98BA&center=true&vCenter=true&width=500&lines=React+Developer+💙;MERN+Stack+Expert+💻;Open+Source+Contributor+🌱;Lifelong+Learner+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00bfbf&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+💻;React+Specialist+⚛️;Open+Source+Enthusiast+🌱;Passionate+about+Learning+📚" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔭 Currently Working On
-- **Management Restaurant 🍽️** Full Stack Project
+### 🧑‍💻 About Me
 
-### 💬 Ask Me About
-- React, Firebase Auth, MongoDB, Express, Tailwind
+- 🎓 Learning Full-Stack Web Development from **Programming Hero** (5 months completed)
+- 🔭 Currently working on: **Restaurant Management 🍽️** & **Parcel Delivery 📦** Projects
+- 💼 Skilled in: React, Tailwind, Node.js, MongoDB, Firebase Auth, Express, JWT
+- 🧠 Currently Exploring: Backend Security, REST APIs & Deployment
+- ⚡ Fun fact: Sometimes I enjoy debugging more than coding 😄
 
 ---
 
-### 📫 How to Reach Me
+### 📬 Contact Me
 
 📍 **Location:** Kishoreganj, Bangladesh  
 📧 **Email:** [shulybd1245@gmail.com](mailto:shulybd1245@gmail.com)  
-📱 **WhatsApp:** [01757321528](https://wa.me/8801757321528)
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.facebook.com/sheauly.akhter.7" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
+📱 **WhatsApp:** [01757321528](https://wa.me/8801757321528)  
+🌐 **GitHub:** [github.com/sheauly](https://github.com/sheauly)  
+👤 **Facebook:** [Sheauly Akhter](https://www.facebook.com/sheauly.akhter.7)
 
 ---
 
 ### 🛠️ My Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</p>
+#### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+
+#### 🛠️ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-### 🧠 Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheauly&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheauly&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheauly&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sheauly&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sheauly&theme=tokyonight" width="47%" />
 </p>
-
----
-
-### 🎉 Fun Animations
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" />
-  <br /><br />
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" />
-  <br /><br />
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheauly&layout=compact&theme=tokyonight" width="47%" />
 </p>
 
 ---
 
-⭐ **If you like my work, please consider starring my repositories!**  
-🤝 **Always open to collaboration and learning something new.**
+### 💡 Projects I'm Proud Of
+
+- 🍽️ [Restaurant Management Website](#)  
+- 📦 [Parcel Delivery Website](#)  
+- 🧑‍🤝‍🧑 [Roommate Finder App](#)  
+- 💼 [Career Code – Job Portal](#)
+
+---
+
+### 🎬 Coding Vibes
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+</p>
+
+---
+
+⭐️ **If you like my work, feel free to star my repos!**  
+🤝 **I'm open to collaboration and learning from amazing developers!**
