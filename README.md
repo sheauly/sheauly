@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheauly Akhter</h1>
 <h3 align="center">🚀 MERN Stack Developer | Lifelong Learner | Passionate Coder from Bangladesh</h3>
-
+<img src="https://i.ibb.co/Kcwfbnfb/ea4b8edd-2f77-4509-8751-d9ec06a5c735.png"/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00bfbf&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+💻;React+Specialist+⚛️;Open+Source+Enthusiast+🌱;Passionate+about+Learning+📚" alt="Typing SVG" />
 </p>
