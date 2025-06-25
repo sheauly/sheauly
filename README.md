@@ -4,7 +4,7 @@
 <h3 align="center">🚀 MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/Kcwfbnfb/ea4b8edd-2f77-4509-8751-d9ec06a5c735.png" />
+  <img src="https://i.ibb.co/LXkYzhJ7/742654bc-b81b-44df-8fb3-89538dc8dd54.png" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00bfbf&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+💻;React+Specialist+⚛️;Open+Source+Enthusiast+🌱;Passionate+about+Learning+📚" alt="Typing SVG" />
@@ -37,11 +37,13 @@ Hello! I'm Sheauly Akhter, a dedicated MERN Stack Developer who is passionate ab
 </div>
 
 
-🚀 What I'm Working On
+<div>
+  <h1>🚀 What I'm Working On</h1>
 - 🔭 Building: Management Resturent
 - ⚒️ Exploring: Next.js
 - 🧪 Learning: Advanced backend security & authentication
 - 🌐 Hosting Projects On: Firebase, Vercel, Netlify
+</div>
 
 
 
