@@ -24,7 +24,7 @@ Hello! I'm **Sheauly Akhter**, a dedicated **MERN Stack Developer** who is passi
 ### 🌟 Favorite Quote & Inspiration
 
 > **"Never stop learning because life never stops teaching."**  
-> — _A motto I live by, inspired by Jhankar Mahbub and Tumit Hasan_ 🚀
+> — _A motto I live by, inspired by Jhankar Mahbub 🚀
 
 ---
 
