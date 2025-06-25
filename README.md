@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sheauly Akhter</h1>
-🚀 MERN Stack Developer
+<h3 align="center">🚀 MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://i.ibb.co/Kcwfbnfb/ea4b8edd-2f77-4509-8751-d9ec06a5c735.png" />
@@ -17,8 +17,10 @@
 
 Hello! I'm Sheauly Akhter, a dedicated MERN Stack Developer who is passionate about building high-performance and user-friendly web applications. I enjoy working with both frontend and backend technologies to deliver complete full-stack solutions that are clean, scalable, and efficient.
 
+
 🎓 I have completed my Master's degree from Kishoreganj Government Gurudoyal College.
 💡 I'm a continuous learner, currently deepening my skills in backend development, security, and deployment strategies.
+
 
 - 🎓 Learning Full-Stack Web Development from **Programming Hero** 
 - 🔭 Currently working on: **Restaurant Management 🍽️** & **Parcel Delivery 📦** Projects
