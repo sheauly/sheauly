@@ -1,9 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Sheauly Akhter</h1>
-<h3 align="center">🚀 MERN Stack Developer | Lifelong Learner | Passionate Coder from Bangladesh</h3>
+🚀 MERN Stack Developer
+
 <p align="center">
-  <img src="(https://i.ibb.co/Kcwfbnfb/ea4b8edd-2f77-4509-8751-d9ec06a5c735.png)" />
+  <img src="https://i.ibb.co/Kcwfbnfb/ea4b8edd-2f77-4509-8751-d9ec06a5c735.png" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00bfbf&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+💻;React+Specialist+⚛️;Open+Source+Enthusiast+🌱;Passionate+about+Learning+📚" alt="Typing SVG" />
@@ -12,8 +13,14 @@
 ---
 
 ### 🧑‍💻 About Me
+<h3 align="center">🚀 MERN Stack Developer | Lifelong Learner | Passionate Coder from Bangladesh</h3>
 
-- 🎓 Learning Full-Stack Web Development from **Programming Hero** (5 months completed)
+Hello! I'm Sheauly Akhter, a dedicated MERN Stack Developer who is passionate about building high-performance and user-friendly web applications. I enjoy working with both frontend and backend technologies to deliver complete full-stack solutions that are clean, scalable, and efficient.
+
+🎓 I have completed my Master's degree from Kishoreganj Government Gurudoyal College.
+💡 I'm a continuous learner, currently deepening my skills in backend development, security, and deployment strategies.
+
+- 🎓 Learning Full-Stack Web Development from **Programming Hero** 
 - 🔭 Currently working on: **Restaurant Management 🍽️** & **Parcel Delivery 📦** Projects
 - 💼 Skilled in: React, Tailwind, Node.js, MongoDB, Firebase Auth, Express, JWT
 - 🧠 Currently Exploring: Backend Security, REST APIs & Deployment
@@ -42,6 +49,8 @@
 </p>
 
 ---
+⭐️ If you like my work, consider giving a star to my repositories!
+🤝 Always open to collaborations and learning opportunities.
 
 ### 🛠️ My Tech Stack
 
