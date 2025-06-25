@@ -28,22 +28,25 @@ Hello! I'm Sheauly Akhter, a dedicated MERN Stack Developer who is passionate ab
 - 🧠 Currently Exploring: Backend Security, REST APIs & Deployment
 - ⚡ Fun fact: Sometimes I enjoy debugging more than coding 😄
 
+- ----
+🌟 Favorite Quote: “Never stop learning because life never stops teaching.”
+🌟 Inspiration: Jhankar Mahbub and Tumit Hasan
 ---
 
-<div>
+
 📍 Location: Bangladesh
 📧 Email: shulybd1245@gmail.com
 📞 Phone: 01518471238
-</div>
 
 
-<div>
+
+
   <h1>🚀 What I'm Working On</h1>
 - 🔭 Building: Management Resturent
 - ⚒️ Exploring: Next.js
 - 🧪 Learning: Advanced backend security & authentication
 - 🌐 Hosting Projects On: Firebase, Vercel, Netlify
-</div>
+
 
 
 
