@@ -29,23 +29,30 @@ Hello! I'm Sheauly Akhter, a dedicated MERN Stack Developer who is passionate ab
 - ⚡ Fun fact: Sometimes I enjoy debugging more than coding 😄
 
 - ----
-🌟 Favorite Quote: “Never stop learning because life never stops teaching.”
-🌟 Inspiration: Jhankar Mahbub and Tumit Hasan
+🌟 Favorite Quote & Inspiration
+"Never stop learning because life never stops teaching."
+— A motto I live by, inspired by Jhankar Mahbub and Tumit Hasan 🚀
 ---
 
 
-📍 Location: Bangladesh
+📫 Contact Information
+📍 Location: Kishoreganj, Bangladesh
+
 📧 Email: shulybd1245@gmail.com
+
 📞 Phone: 01518471238
 
 
 
 
-  <h1>🚀 What I'm Working On</h1>
-- 🔭 Building: Management Resturent
-- ⚒️ Exploring: Next.js
-- 🧪 Learning: Advanced backend security & authentication
-- 🌐 Hosting Projects On: Firebase, Vercel, Netlify
+ 🚀 What I'm Currently Working On
+🔭 Building: [Management Restaurant 🍽️ — Full Stack Project]
+
+⚒️ Exploring: Next.js for advanced frontend techniques
+
+🧪 Learning: Backend security, JWT, and authentication best practices
+
+🌐 Hosting Projects On: Firebase • Vercel • Netlify
 
 
 
