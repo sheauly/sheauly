@@ -32,7 +32,7 @@ Hello! I'm **Sheauly Akhter**, a dedicated **MERN Stack Developer** who is passi
 
 - 📍 **Location:** Kishoreganj, Bangladesh  
 - 📧 **Email:** [shulybd1245@gmail.com](mailto:shulybd1245@gmail.com)  
-- 📞 **Phone:** 01518471238
+- 📞 **Phone:** 01757321528
 
 ---
 
