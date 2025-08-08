@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheauly Akhter</h1>
 <h3 align="center">🚀 MERN Stack Developer</h3>
 <p align="center">
-  <img src="https://i.ibb.co.com/pvjkRXvf/8583cf57-cbf7-4d20-87fc-fe592b60bfac-1.png" />
+  <img src="https://i.ibb.co.com/5hztjYWW/Sheauly-Akhter-Front-End-Developer-2.png" />
 </p>
 
 
@@ -38,7 +38,7 @@ Hello! I'm **Sheauly Akhter**, a dedicated **MERN Stack Developer** who is passi
 
 ### 🚀 What I'm Currently Working On
 
-- 🔭 **Building:** Management Restaurant 🍽️ — Full Stack Project  
+- 🔭 **Building:** Management Restaurant 🍽️ — Front-End Project  
 - ⚒️ **Exploring:** Next.js for advanced frontend techniques  
 - 🧪 **Learning:** Backend security, JWT, and authentication best practices  
 - 🌐 **Hosting Projects On:** Firebase • Vercel • Netlify
