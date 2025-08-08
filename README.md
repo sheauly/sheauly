@@ -108,7 +108,7 @@ Hello! I'm **Sheauly Akhter**, a dedicated **MERN Stack Developer** who is passi
 - 📦 [Parcel Delivery Website](#)
 - 🧑‍🤝‍🧑 [Roommate Finder App](#)
 - 💼 [Career Code – Job Portal](#)
-- 🐶 [Pet Adoption Project]_(#)_
+- 🐶 [Pet Adoption Project](#)
 ---
 
 ### 🎬 Coding Vibes
