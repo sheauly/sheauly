@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheauly Akhter</h1>
-<h3 align="center">🚀 MERN Stack Developer</h3>
+<h3 align="center">🚀 Front-End Developer</h3>
 <p align="center">
   <img src="https://i.ibb.co.com/5hztjYWW/Sheauly-Akhter-Front-End-Developer-2.png" />
 </p>
@@ -12,7 +12,7 @@
 ---
 
 ### 🧑‍💻 About Me
-<h3 align="center">🚀 MERN Stack Developer | Lifelong Learner | Passionate Coder from Bangladesh</h3>
+<h3 align="center">🚀 Rond-End Developer | Lifelong Learner | Passionate Coder from Bangladesh</h3>
 
 Hello! I'm **Sheauly Akhter**, a dedicated **MERN Stack Developer** who is passionate about building high-performance and user-friendly web applications. I enjoy working with both frontend and backend technologies to deliver complete full-stack solutions that are clean, scalable, and efficient.
 
@@ -108,7 +108,7 @@ Hello! I'm **Sheauly Akhter**, a dedicated **MERN Stack Developer** who is passi
 - 📦 [Parcel Delivery Website](#)
 - 🧑‍🤝‍🧑 [Roommate Finder App](#)
 - 💼 [Career Code – Job Portal](#)
-
+- 🐶 [Pet Adoption Project]_(#)_
 ---
 
 ### 🎬 Coding Vibes
