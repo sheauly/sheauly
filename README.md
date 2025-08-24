@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me
 <h3 align="center">🚀 Front-End Developer | Lifelong Learner | Passionate Coder from Bangladesh</h3>
 
-Hello! I'm **Sheauly Akhter**, a dedicated **MERN Stack Developer** who is passionate about building high-performance and user-friendly web applications. I enjoy working with both frontend and backend technologies to deliver complete full-stack solutions that are clean, scalable, and efficient.
+Hello! I'm **Sheauly Akhter**, a dedicated **Frontend Developer** who is passionate about building high-performance and user-friendly web applications. I enjoy working with both frontend and backend technologies to deliver complete full-stack solutions that are clean, scalable, and efficient.
 
 🎓 I have completed my **Master's degree** from **Kishoreganj Government Gurudoyal College**.  
 💡 I'm a continuous learner, currently deepening my skills in backend development, security, and deployment strategies.
